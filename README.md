@@ -104,7 +104,7 @@ After PCA@2, visual inspection showed no meaningful cluster separability → no 
 ```
 
 📁 Fertilizer-Prediction-Kaggle
-├── 📜 fertilizer\_prediction.ipynb  # Main notebook
+├── 📜 KPS_Predicting_Optimal_Fertilizers.ipynb  # Main notebook
 ├── 📁 data/                        # Data used for training and predictions
 └── README.md                       # This file
 
